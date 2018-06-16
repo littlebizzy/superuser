@@ -6,3 +6,11 @@ Continually ensures that a superuser exists in the WordPress database for custom
 * Free Facebook support group: https://www.facebook.com/groups/littlebizzy/
 
 **Please do not submit Pull Requests. Instead, kindly create a new Issue with relevant information.**
+
+# Defined Constants
+
+* `SUPERUSER_LOGIN` - username (lowercase recommended)
+* `SUPERUSER_PASSWORD` - plain text password
+* `SUPERUSER_EMAIL` - email address
+* `SUPERUSER_NICENAME` - full name or otherwise
+
